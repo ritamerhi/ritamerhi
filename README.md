@@ -15,8 +15,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 
 ## 🌱 Currently Learning
-- Godot
-- Flutter
+![Godot](https://img.shields.io/badge/-Godot-000?&logo=Godot-Engine)
+![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 
 ## 🎯 Interests
 - Music 🎹🎻🎸
@@ -36,7 +36,7 @@ I love memes and jokes, life is too short to be serious all the time! Here’s a
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritamerhi&show_icons=true&hide_border=true)
 
-[![Github Streak](https://streak-stats.demolab.com/?user=TheresaRoukaibe)](https://git.io/streak-stats)
+[![Github Streak](https://streak-stats.demolab.com/?user=ritamerhi)](https://git.io/streak-stats)
 
 ## 🔥 My Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritamerhi&layout=compact)

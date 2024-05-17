@@ -36,11 +36,15 @@ I love memes and jokes, life is too short to be serious all the time! Here’s a
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritamerhi&show_icons=true&hide_border=true)
 
+[![Github Streak](https://streak-stats.demolab.com/?user=TheresaRoukaibe)](https://git.io/streak-stats)
+
 ## 🔥 My Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritamerhi&layout=compact)
 
 ---
 
 May the Force be with you 💫
+
+---
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4500&pause=1000&color=CDEEFF&multiline=true&random=false&width=531&height=45&lines=Nothing+is+as+permanent+as+a+temporary+solution+that+works" alt="Typing SVG" /></a>

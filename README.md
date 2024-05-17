@@ -28,18 +28,19 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 - Reading 📚
 
 ## 😄 Fun Fact
-I love memes, life is too short to be serious all the time! Here’s a random coding meme for you:
+I love memes and jokes, life is too short to be serious all the time! Here’s a random coding joke for you:
 
-![Random Coding Meme](https://source.unsplash.com/featured/?coding,meme)
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
-*(Refresh the page to see a new meme)*
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritamerhi&show_icons=true&hide_border=true)
 
 ## 🔥 My Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritamerhi&layout=compact)
 
 ---
 
 May the Force be with you 💫
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4500&pause=1000&color=CDEEFF&multiline=true&random=false&width=531&height=45&lines=Nothing+is+as+permanent+as+a+temporary+solution+that+works" alt="Typing SVG" /></a>

@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
-## <img src ="https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c1/Enchanted_Diamond_Shovel.gif/revision/latest?cb=20201118111657" width=45 height= 45 align="bottom"> </h1> Technologies & Tools
+## <img src ="https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c1/Enchanted_Diamond_Shovel.gif/revision/latest?cb=20201118111657" width=45 height= 45 align="bottom"> Technologies & Tools
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-000?&logo=Unreal-Engine)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)

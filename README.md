@@ -11,9 +11,12 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## 🌱 Currently Learning
 ![Godot](https://img.shields.io/badge/-Godot-000?&logo=Godot-Engine)

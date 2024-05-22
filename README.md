@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for coding and all things geeky 👾
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ## 🔧 Technologies & Tools
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-000?&logo=Unreal-Engine)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
@@ -12,11 +14,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## 🌱 Currently Learning
 ![Godot](https://img.shields.io/badge/-Godot-000?&logo=Godot-Engine)

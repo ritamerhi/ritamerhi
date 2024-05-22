@@ -13,6 +13,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 
 ## 🌱 Currently Learning
 ![Godot](https://img.shields.io/badge/-Godot-000?&logo=Godot-Engine)

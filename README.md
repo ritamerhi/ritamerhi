@@ -38,16 +38,7 @@ I love memes and jokes, life is too short to be serious all the time! Here’s a
 
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritamerhi&show_icons=true&hide_border=true)
-
 [![Github Streak](https://streak-stats.demolab.com/?user=ritamerhi)](https://git.io/streak-stats)
-
-## 🔥 My Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritamerhi&layout=compact)
-
----
-
-May the Force be with you 💫
 
 ---
 
